@@ -27,21 +27,21 @@ Keyboard / Mouse Interaction
 ```
 
 ## Key Features
--Real-time GUI element detection
--Keyboard-based navigation
--Mouse interaction tracking
--Speech feedback for detected elements
--Virtual navigation structure
--Navigation history
--Support for Windows desktop applications
+- Real-time GUI element detection
+- Keyboard-based navigation
+- Mouse interaction tracking
+- Speech feedback for detected elements
+- Virtual navigation structure
+- Navigation history
+- Support for Windows desktop applications
 
 ## Tech Stack
-Python
-Windows UI Automation
-pywinauto
-Keyboard & Mouse Listeners
-Text-to-Speech
-Windows APIs
+- Python
+- Windows UI Automation
+- pywinauto
+- Keyboard & Mouse Listeners
+- Text-to-Speech
+- Windows APIs
 
 ## Requirements
 - Python 3.10+
