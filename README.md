@@ -14,6 +14,7 @@ Interacting with graphical interfaces can be challenging for users who cannot re
 The system continuously monitors user interaction, identifies the GUI element being accessed, organizes detected elements for navigation, and provides speech feedback describing the element.
 
 ## How it works
+```text
 Keyboard / Mouse Interaction
             ↓
       GUI Element Detection
@@ -23,15 +24,16 @@ Keyboard / Mouse Interaction
       Navigation System
             ↓
        Speech Feedback
+```
 
 ## Key Features
-Real-time GUI element detection
-Keyboard-based navigation
-Mouse interaction tracking
-Speech feedback for detected elements
-Virtual navigation structure
-Navigation history
-Support for Windows desktop applications
+-Real-time GUI element detection
+-Keyboard-based navigation
+-Mouse interaction tracking
+-Speech feedback for detected elements
+-Virtual navigation structure
+-Navigation history
+-Support for Windows desktop applications
 
 ## Tech Stack
 Python
